@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\services\\hanghoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\services\\hanghoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\data\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\data\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\models\\appsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\models\\appsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\services\\iloairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\services\\iloairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Migrations\\20240522042409_AddRefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApiApp\\Migrations\\20240522042409_AddRefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\data\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\data\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\services\\loairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\services\\loairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\services\\ihanghoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\services\\ihanghoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\data\\donhangchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\data\\donhangchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\controllers\\loaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\controllers\\loaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\controllers\\loaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\controllers\\loaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\data\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\data\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\services\\loairepositoryinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\services\\loairepositoryinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\models\\loaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\models\\loaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|d:\\code\\webapi\\webapi_net8\\webapiapp\\webapiapp\\migrations\\20240518123302_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F712621A-FB3C-40C3-A563-42C392107E66}|WebApiApp\\WebApiApp.csproj|solutionrelative:webapiapp\\migrations\\20240518123302_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Program.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Program.cs",
+              "RelativeToolTip": "WebApiApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAawBsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T05:56:34.247Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApiApp\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAawL8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:53:26.97Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Models\\LoginModel.cs",
+              "RelativeToolTip": "WebApiApp\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:52:44.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppSetting.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Models\\AppSetting.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Models\\AppSetting.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Models\\AppSetting.cs",
+              "RelativeToolTip": "WebApiApp\\Models\\AppSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:46:10.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IHangHoaRepository.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Services\\IHangHoaRepository.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Services\\IHangHoaRepository.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Services\\IHangHoaRepository.cs",
+              "RelativeToolTip": "WebApiApp\\Services\\IHangHoaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:36:31.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Data\\MyDbContext.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "WebApiApp\\Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:18:32.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiApp\\appsettings.json",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\appsettings.json",
+              "RelativeToolTip": "WebApiApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T12:43:36.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILoaiRepository.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Services\\ILoaiRepository.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Services\\ILoaiRepository.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Services\\ILoaiRepository.cs",
+              "RelativeToolTip": "WebApiApp\\Services\\ILoaiRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:18:56.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangHoaRepository.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Services\\HangHoaRepository.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Services\\HangHoaRepository.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Services\\HangHoaRepository.cs",
+              "RelativeToolTip": "WebApiApp\\Services\\HangHoaRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAawD8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:39:02.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Data\\RefreshToken.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\RefreshToken.cs",
+              "RelativeToolTip": "WebApiApp\\Data\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:15:45.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240518123302_AddUser.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Migrations\\20240518123302_AddUser.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Migrations\\20240518123302_AddUser.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Migrations\\20240518123302_AddUser.cs",
+              "RelativeToolTip": "WebApiApp\\Migrations\\20240518123302_AddUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:33:02.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Models\\ApiResponse.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "WebApiApp\\Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:57:25.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240522042409_AddRefreshToken.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Migrations\\20240522042409_AddRefreshToken.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Migrations\\20240522042409_AddRefreshToken.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Migrations\\20240522042409_AddRefreshToken.cs",
+              "RelativeToolTip": "WebApiApp\\Migrations\\20240522042409_AddRefreshToken.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:24:09.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoaiRepository.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Services\\LoaiRepository.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Services\\LoaiRepository.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Services\\LoaiRepository.cs",
+              "RelativeToolTip": "WebApiApp\\Services\\LoaiRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwEQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:24:03.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\DonHang.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Data\\DonHang.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\DonHang.cs",
+              "RelativeToolTip": "WebApiApp\\Data\\DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:43:08.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoaisController.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Controllers\\LoaisController.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Controllers\\LoaisController.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Controllers\\LoaisController.cs",
+              "RelativeToolTip": "WebApiApp\\Controllers\\LoaisController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvxwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:44:51.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Data\\NguoiDung.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\NguoiDung.cs",
+              "RelativeToolTip": "WebApiApp\\Data\\NguoiDung.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:26:05.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoaiController.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Controllers\\LoaiController.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Controllers\\LoaiController.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Controllers\\LoaiController.cs",
+              "RelativeToolTip": "WebApiApp\\Controllers\\LoaiController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwFEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:35:36.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DonHangChiTiet.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\DonHangChiTiet.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Data\\DonHangChiTiet.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\DonHangChiTiet.cs",
+              "RelativeToolTip": "WebApiApp\\Data\\DonHangChiTiet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:47:59.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Models\\HangHoa.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Models\\HangHoa.cs",
+              "RelativeToolTip": "WebApiApp\\Models\\HangHoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:36:36.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApiApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:43:16.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Models\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Models\\PaginatedList.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Models\\PaginatedList.cs",
+              "RelativeToolTip": "WebApiApp\\Models\\PaginatedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:07:58.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoaiRepositoryInMemory.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Services\\LoaiRepositoryInMemory.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Services\\LoaiRepositoryInMemory.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Services\\LoaiRepositoryInMemory.cs",
+              "RelativeToolTip": "WebApiApp\\Services\\LoaiRepositoryInMemory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:48:24.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\Loai.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Data\\Loai.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\Loai.cs",
+              "RelativeToolTip": "WebApiApp\\Data\\Loai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:19:29.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoaiVM.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Models\\LoaiVM.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Models\\LoaiVM.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Models\\LoaiVM.cs",
+              "RelativeToolTip": "WebApiApp\\Models\\LoaiVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:19:27.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\HangHoa.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Data\\HangHoa.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Data\\HangHoa.cs",
+              "RelativeToolTip": "WebApiApp\\Data\\HangHoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:48:37.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "WebApiApp\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\code\\webapi\\Webapi_net8\\WebApiApp\\WebApiApp\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "WebApiApp\\Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwFIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:08:35.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
