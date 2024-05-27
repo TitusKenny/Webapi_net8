@@ -11,7 +11,10 @@ namespace WebApiApp.Data
         public int MaLoai { get; set; }
         [Required]
         [MaxLength(50)]
-        public string TenLoai { get; set; }
+        public string? TenLoai { get; set; }
+        [Required]
+        [MaxLength(50)]
+        public string? NhomLoai { get; set; }
         public virtual ICollection<HangHoa> HangHoas { get; set; }
     }
 }

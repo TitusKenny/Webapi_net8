@@ -9,7 +9,7 @@ namespace WebApiApp.Data
     {
         [Key]
         public Guid Id { get; set; }
-        public int UserId{ get; set; }
+        public Guid UserId { get; set; }
         [ForeignKey(nameof(UserId))]
         public NguoiDung? NguoiDung { get; set; }
 

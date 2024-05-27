@@ -51,19 +51,20 @@ namespace WebApiApp.Controllers
         private async Task<TokenModel> GenerateToken (NguoiDung nguoiDung)
         {
             var jwtTokenHandler = new JwtSecurityTokenHandler();
-
+            
             var secretKeyBytes = Encoding.UTF8.GetBytes(_appSetting.SecretKey);
-
+            var ThongTinInfo = _context.ThongTinNguoiDungs.FirstOrDefault(tt => tt.TTId ==  nguoiDung.TTId);
             var tokenDesription = new SecurityTokenDescriptor
             {
+                
                 Subject = new System.Security.Claims.ClaimsIdentity(new[]
                 {
-                    new Claim(ClaimTypes.Name, nguoiDung.HoTen),
-                    new Claim(JwtRegisteredClaimNames.Email, nguoiDung.Email),
-                    new Claim(JwtRegisteredClaimNames.Sub, nguoiDung.Email),
+                    new Claim(ClaimTypes.Name, ThongTinInfo.HoTen  ),
+                    new Claim(JwtRegisteredClaimNames.Email, ThongTinInfo.Email),
+                    new Claim(JwtRegisteredClaimNames.Sub, ThongTinInfo.Email),
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
                     new Claim("UserName", nguoiDung.UserName),
-                    new Claim("Id", nguoiDung.Id.ToString()),
+                    new Claim("Id", nguoiDung.MaNguoiDung.ToString()),
 
                     //roles
 
@@ -82,7 +83,7 @@ namespace WebApiApp.Controllers
             {
                 Id = Guid.NewGuid(),
                 JwtId = token.Id,
-                UserId = nguoiDung.Id,
+                UserId = nguoiDung.MaNguoiDung,
                 Token = refreshToken,
                 IsUsed = false,
                 IsRevoked = false,
@@ -209,7 +210,7 @@ namespace WebApiApp.Controllers
                 await _context.SaveChangesAsync();
 
                 //createnew TOken
-                var user = await _context.NguoiDungs.SingleOrDefaultAsync(nd => nd.Id == storedToken.UserId);
+                var user = await _context.NguoiDungs.SingleOrDefaultAsync(nd => nd.MaNguoiDung == storedToken.UserId);
                 var token = await GenerateToken(user);
 
                 return Ok(new ApiResponse

@@ -6,6 +6,7 @@ namespace WebApiApp.Models
     {
         [Required]
         [MaxLength(50)]
-        public string TenLoai { get; set; }
+        public string? TenLoai { get; set; }
+        public string? NhomLoai { get; set; }
     }
 }

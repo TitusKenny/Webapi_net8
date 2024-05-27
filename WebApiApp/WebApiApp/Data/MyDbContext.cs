@@ -8,6 +8,9 @@ namespace WebApiApp.Data
 
         #region DbSet
         public DbSet<HangHoa> HangHoas { get; set; }
+        public DbSet<KhoHang> KhoHangs { get; set; }
+        public DbSet<ChucVu> chucVus { get; set; }
+        public DbSet<ThongTinNguoiDung> ThongTinNguoiDungs { get; set; }
         public DbSet<RefreshToken> RefreshTokens { get; set; }
         public DbSet<Loai> Loais { get; set; }
         public DbSet<DonHang> DonHangs { get; set; }
@@ -41,13 +44,15 @@ namespace WebApiApp.Data
                .HasConstraintName("FK_DonHangCT_HangHoa");
             });
             modelBuilder.Entity<Loai>();
-            modelBuilder.Entity<NguoiDung>(entity =>
+            modelBuilder.Entity<NguoiDung>(entity => 
             {
                 entity.HasIndex(e => e.UserName).IsUnique();
+            });
+            modelBuilder.Entity<ThongTinNguoiDung>(entity =>
+            {
                 entity.Property(e => e.HoTen).IsRequired().HasMaxLength(150);
                 entity.Property(e => e.Email).IsRequired().HasMaxLength(150);
             });
-
             base.OnModelCreating(modelBuilder);
         }
     }

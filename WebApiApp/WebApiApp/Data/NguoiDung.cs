@@ -8,14 +8,17 @@ namespace WebApiApp.Data
     public class NguoiDung
     {
         [Key] 
-        public int Id { get; set; }
+        public Guid MaNguoiDung { get; set; }
         [Required]
         [MaxLength(50)]
-        public string UserName {  get; set; }
+        public string? UserName { get; set; }
         [Required]
-        [MaxLength(250)]    
-        public string Password { get; set; }
-        public string HoTen {  get; set; }
-        public string Email {  get; set; }
+        [MaxLength(250)]
+        public string? Password { get; set; }
+        public int MaQuyen { get; set; }
+        public Guid TTId { get; set; }
+        [ForeignKey("TTId")]
+        public ThongTinNguoiDung? ThongTinNguoiDung { get; set; }
+        public Guid TonTai{get;set;}
     }
 }

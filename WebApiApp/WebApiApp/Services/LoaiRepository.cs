@@ -67,7 +67,7 @@ namespace WebApiApp.Services
         public void Update(LoaiVM loai)
         {
             var _loai = _context.Loais.SingleOrDefault(lo => lo.MaLoai == loai.MaLoai);
-            loai.TenLoai = loai.TenLoai;
+            _loai.TenLoai = loai.TenLoai;
             _context.SaveChanges();
         }
 

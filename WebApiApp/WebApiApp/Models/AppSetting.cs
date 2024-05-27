@@ -2,6 +2,6 @@
 {
     public class AppSetting
     {
-        public string SecretKey { get; set; }
+        public string? SecretKey { get; set; }
     }
 }

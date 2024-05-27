@@ -6,9 +6,9 @@ namespace WebApiApp.Models
     {
         [Required]
         [MaxLength(50)]
-        public string UserName { get; set; }
+        public string? UserName { get; set; }
         [Required]
         [MaxLength(250)]
-        public string Password { get; set; }
+        public string? Password { get; set; }
     }
 }
